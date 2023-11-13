@@ -2,6 +2,14 @@
 <p align="center">
 <img src="SWIM-IR-logo.png" alt="SWIM-IR logo"/>
 </p>
+<h4 align="center">
+    <p>
+        <a href="https://arxiv.org/abs/2311.05800">Paper</a> |
+        <a href="#download">Download</a> |
+        <a href="swim-ir-datacard.md">DataCard</a> |
+        <a href="#prompts">Prompts</a>
+    <p>
+</h4>
 
 ## Overview
 
