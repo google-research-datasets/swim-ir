@@ -66,7 +66,7 @@ Prompts given to PaLM-2 to generate the three parts of our dataset are provided 
 
 ## Paper
 
-SWIM-IR is described in datail in the paper [Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval](http://TBD) by Nandan Thakur, Jianmo Ni, Gustavo Hernández Ábrego, John Wieting, Jimmy Lin and Daniel Cer. Please cite our paper in research work that uses or discusses SWIM-IR.
+SWIM-IR is described in datail in the paper [Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval](https://arxiv.org/abs/2311.05800) by Nandan Thakur, Jianmo Ni, Gustavo Hernández Ábrego, John Wieting, Jimmy Lin and Daniel Cer. Please cite our paper in research work that uses or discusses SWIM-IR.
 
 ### BibTeX
 
@@ -80,11 +80,12 @@ SWIM-IR is described in datail in the paper [Leveraging LLMs for Synthesizing Tr
                Daniel Cer},
   title     = {Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval},
   journal   = {CoRR},
-  volume    = {abs/TBD},
+  volume    = {abs/2311.05800},
   year      = {2023},
-  url       = {https://arxiv.org/abs/TBD},
+  url       = {https://arxiv.org/abs/2311.05800},
   eprinttype = {arXiv},
-  eprint    = {TBD},
+  primaryClass={cs.IR},
+  eprint    = {2311.05800},
 }
  
 ```
@@ -96,4 +97,4 @@ swim-ir-dataset@googlegroups.com</a>
 
 ## License
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">The SWIM-IR dataset</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">The SWIM-IR dataset</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
