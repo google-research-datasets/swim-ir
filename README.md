@@ -1,7 +1,7 @@
-# SWIM-IR
-<p align="center">
-<img src="SWIM-IR-logo.png" alt="SWIM-IR logo"/>
-</p>
+<h1 align="center">
+<img style="vertical-align:middle" width="200px" height="296px" src="https://github.com/google-research-datasets/swim-ir/blob/main/SWIM-IR-logo.png" />
+</h1>
+
 <h4 align="center">
     <p>
         <a href="https://arxiv.org/abs/2311.05800">Paper</a> |
